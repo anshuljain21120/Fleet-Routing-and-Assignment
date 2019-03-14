@@ -15,7 +15,6 @@ level.
 Here in this project I considered 3 planes moving between 6 airports so that
 maximum number of passengers can be flown between these airports.
 The main contribution by this project is as follows:
-<br/>
 <p/>
     • Cost minimization of the company by considering the total distance
     travelled by all the planes and the number of airports used by them.
@@ -37,7 +36,6 @@ the master branch.
   airlines must develop a more practical fleet planning approach to meet market
   demand with lower costs and more controllable risks at a strategic level. From
   the plethora of problems faced by the airline companies, some are:
-  <br/>
   <p>
   	• Network Design problem, which consists in mainly deciding which
     airports should be served by the airline.
