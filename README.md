@@ -1,7 +1,6 @@
 # Fleet_Routing_and_Assignment
 __AIM: Determine which aircraft to fly on each route, and the sequence of segments flown by each aircraft.__
 <br/>
-<br/>
 <p/>The fleet planning decision-making process is one of the most problematic
 issues for airline industry. An over-large fleet size would cause an airline
 unnecessary expense since the increasing capital assets account for a large
@@ -23,6 +22,7 @@ The main contribution by this project is as follows:
 <br/>
     • The segment flown by each aircraft.
 <br/>
+<p/>
 In the next section, the problem is presented in detail. The formulation of the
 problem is solved on MATLAB software of whichall necessary files are shared in
 the master branch.
@@ -60,5 +60,6 @@ the master branch.
     • Cost Design problem which consists of deciding the minimum cost
     that the company must bear for total distance covered by an aircraft.
     <br/>
+    <p/>
     This project will analyse and optimize the problem using LPP model and with the
     help of MATLAB software.
