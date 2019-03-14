@@ -1,8 +1,8 @@
 # Fleet_Routing_and_Assignment
-AIM: Determine which aircraft to fly on each route, and the sequence of segments flown by each aircraft.
+__AIM: Determine which aircraft to fly on each route, and the sequence of segments flown by each aircraft.__
 <br/>
 <br/>
-The fleet planning decision-making process is one of the most problematic
+<p/>The fleet planning decision-making process is one of the most problematic
 issues for airline industry. An over-large fleet size would cause an airline
 unnecessary expense since the increasing capital assets account for a large
 proportion of the airline operational costs. Moreover, considering the profit
@@ -17,6 +17,7 @@ Here in this project I considered 3 planes moving between 6 airports so that
 maximum number of passengers can be flown between these airports.
 The main contribution by this project is as follows:
 <br/>
+<p/>
     • Cost minimization of the company by considering the total distance
     travelled by all the planes and the number of airports used by them.
 <br/>
@@ -26,6 +27,7 @@ In the next section, the problem is presented in detail. The formulation of the
 problem is solved on MATLAB software of whichall necessary files are shared in
 the master branch.
 <br/>
+<p/>
 ▪ PROBLEM
 <br/>
   Airline fleet planning process is one of the most problematic issues for airline
@@ -36,7 +38,8 @@ the master branch.
   demand with lower costs and more controllable risks at a strategic level. From
   the plethora of problems faced by the airline companies, some are:
   <br/>
-    • Network Design problem, which consists in mainly deciding which
+  <p>
+  	• Network Design problem, which consists in mainly deciding which
     airports should be served by the airline.
     <br/>
     • Fleet Design problem which consists in deciding the size and the
