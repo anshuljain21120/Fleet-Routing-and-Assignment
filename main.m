@@ -5,6 +5,7 @@ fprintf("Calling the constraints for problem 1\n");
 
 [f,A,b,Aeq,beq,lb,ub] = lpp();
 
+fprintf("Optimzing the constraints");
 [X,FVAL] = linprog(f,A,b,Aeq,beq,lb,ub);
 
 fprintf("\nDistance travelled by plane 1 : " + X(1)*1000 + "km");
